@@ -384,6 +384,7 @@ header .header-content .header-content-inner iframe {
   padding: 10px;
   background: #333;
   border: 0;
+  text-align: center;
 }
 
 .modal-title {
