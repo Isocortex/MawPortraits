@@ -194,7 +194,7 @@ header .header-content {
 }
 
 header .header-content .header-content-inner h1 {
-    color: #2f2a66;
+    color: #fff;
     margin-top: 100px;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -202,7 +202,7 @@ header .header-content .header-content-inner h1 {
 }
 
 header .header-content .header-content-inner h2 {
-    color: #2f2a66 !important;
+    color: #fff !important;
     font-weight: bolder;
 }
 
@@ -211,7 +211,7 @@ header .header-content .header-content-inner hr {
 }
 
 header .header-content .header-content-inner p {
-    color: #2f2a66 !important;
+    color: #fff !important;
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: bolder;
