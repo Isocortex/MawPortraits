@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #2e6611;
+    border-color: #2f2a66;
     border-width: 3px;
 }
 
@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #2e6611;
+    color: #2f2a66;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #2e6611;
+    background-color: #2f2a66;
 }
 
 .bg-dark {
@@ -89,7 +89,7 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #2e6611;
+    color: #2f2a66;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -107,12 +107,12 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #2e6611;
+    color: #2f2a66;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #2e6611!important;
+    color: #2f2a66!important;
     background-color: transparent;
 }
 
@@ -153,7 +153,7 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
-        color: #2e6611;
+        color: #2f2a66;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
@@ -168,7 +168,7 @@ aside {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #2e6611;
+        color: #2f2a66;
     }
 }
 
@@ -194,7 +194,7 @@ header .header-content {
 }
 
 header .header-content .header-content-inner h1 {
-    color: #333;
+    color: #2f2a66;
     margin-top: 100px;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -202,7 +202,7 @@ header .header-content .header-content-inner h1 {
 }
 
 header .header-content .header-content-inner h2 {
-    color: #333;
+    color: #2f2a66 !important;
     font-weight: bolder;
 }
 
@@ -211,7 +211,7 @@ header .header-content .header-content-inner hr {
 }
 
 header .header-content .header-content-inner p {
-    color: #333 !important;
+    color: #2f2a66 !important;
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: bolder;
@@ -423,7 +423,7 @@ header .header-content .header-content-inner iframe {
 }
 
 .text-primary {
-    color: #2e6611;
+    color: #2f2a66;
 }
 
 .no-gutter > [class*=col-] {
@@ -485,9 +485,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #2e6611;
+    border-color: #2f2a66;
     color: #fff;
-    background-color: #2e6611;
+    background-color: #2f2a66;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -528,12 +528,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #2e6611;
-    background-color: #2e6611;
+    border-color: #2f2a66;
+    background-color: #2f2a66;
 }
 
 .btn-primary .badge {
-    color: #2e6611;
+    color: #2f2a66;
     background-color: #fff;
 }
 
